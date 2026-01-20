@@ -1,1 +1,1 @@
-# task-4
+In this task, I created and executed a shell script to collect basic system information and save it to a report file. The script used variables, conditions, and simple commands to display system details and perform basic automation
